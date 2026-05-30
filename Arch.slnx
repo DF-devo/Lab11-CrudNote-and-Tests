@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Arch.ConsoleApp\Arch.ConsoleApp.csproj" />
+  <Project Path="Arch.EFCore/Arch.EFCore.csproj" />
+  <Project Path="CrudNoteTests/CrudNoteTests.csproj" Id="385db0d2-31bf-4ee5-b5b5-8f8d30d38814" />
+</Solution>
